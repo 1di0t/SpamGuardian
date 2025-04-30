@@ -34,5 +34,6 @@ K-최근접 이웃(KNN)​​
 
 장단기 메모리(LSTM)
 
-**PPT**
+**PDF**
+
 [스팸가디언_포트폴리오.pdf](https://github.com/user-attachments/files/19978400/_.pdf)
